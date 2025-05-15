@@ -1,8 +1,11 @@
-<h1 align="center">Olá, meu nome é Gabriel Koji Kondo</h1>
+<h1 align="center">Hey! My name is Gabriel Koji Kondo</h1>
 
 ---
 
-### 🛠️ Tecnologias que uso
+<h2>Im a student at Instituto J&F Tech, im also a Data analyst and a Developer Frontend. </h2>
+---
+
+### 🛠️ The following are the technologies I’m proficient in, categorized by domain:
 
 #### Back-end  
 <img src="https://img.shields.io/badge/-Python-FFDA4D?style=flat&logo=python&logoColor=white" />
@@ -11,7 +14,7 @@
 #### Front-end  
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 
-#### Dados  
+#### Data Analysis  
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 
